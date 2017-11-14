@@ -5,7 +5,6 @@ date: "11/14/2017"
 output: html_document
 ---
 
-
 Introduction to Open Data Science Course, autumn 2017  
 
 https://github.com/mehar-GIT/IODS-project
